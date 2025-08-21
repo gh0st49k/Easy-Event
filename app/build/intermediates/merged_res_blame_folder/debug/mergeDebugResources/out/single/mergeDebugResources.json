@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/anim_fade_in.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_banner2.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/banner2.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_design1.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/design1.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_event.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_event.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_coding_competion.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_coding_competion.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_home.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_mechanical.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_mechanical.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_login.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/anim_slide_up.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_gradient_background.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_nav_header.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_primary_button.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/primary_button.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_custom_tab.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/custom_tab.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_banner1.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/banner1.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_rounded_bg.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_welcome.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_computer_branch.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_computer_branch.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_aiml.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_aiml.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_computer.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_computer.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/menu_drawer.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/menu/drawer.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_event_star.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_event_star.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_civil.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_civil.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_banner4.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/banner4.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_rounded_button.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_card_background.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_custom_et.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/custom_et.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_gradient_button.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/gradient_button.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_profile.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_entry_dialog.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/entry_dialog.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_logout.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_banner3.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/banner3.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_home.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_ic_entc.png.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/ic_entc.png"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/drawable_rounded_input.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/drawable/rounded_input.xml"
+    },
+    {
+        "merged": "com.logicsystemandsolutions.EasyEvent.app-debug-36:/layout_activity_signup.xml.flat",
+        "source": "com.logicsystemandsolutions.EasyEvent.app-main-38:/layout/activity_signup.xml"
+    }
+]

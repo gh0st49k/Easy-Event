@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969822366937",
+    "project_id": "easy-event-3cc20",
+    "storage_bucket": "easy-event-3cc20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969822366937:android:927b659bfdfc1eb867e2c8",
+        "android_client_info": {
+          "package_name": "com.logicsystemandsolutions.EasyEvent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYy2BLCD98xBfBKdScF2uDtJojBg6cY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
